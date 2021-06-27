@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">eDiary</string>
+    <string name="refresh">Refresh</string>
+    <string name="submit">Submit</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note">Note : Enter 10 digit mobile number and we automatically fetch the related data from server</string>
+    <string name="note_mobile">Note : Enter 10 digit mobile number</string>
+    <string name="no_data_found">No data found</string>
+
+</resources>

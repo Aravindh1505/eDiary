@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224982150065",
+    "project_id": "edairy-ae27b",
+    "storage_bucket": "edairy-ae27b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224982150065:android:3862d804dcbd73ebbd6b90",
+        "android_client_info": {
+          "package_name": "com.edairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224982150065-0sfnut23vf8s6p58ov9glrvlril6vunu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edairy",
+            "certificate_hash": "bc461b958783bcc537d4908e27f43ffd0e0087f3"
+          }
+        },
+        {
+          "client_id": "224982150065-t415thispl5e7cnsrji0u0nlc7vmu7mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_QOfcftxlfWuERLapnPyy3GnH_zlf13Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224982150065-t415thispl5e7cnsrji0u0nlc7vmu7mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
